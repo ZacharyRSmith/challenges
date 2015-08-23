@@ -14,8 +14,8 @@ We'll use the traditional board layout/style. A puzzle is made up of:
 * a *spot* holds a single number 1-9
 * a *square* is a 3x3 group of spots
 * a *board* is made up of a 3x3 group of squares
-* a *row* spans nine squares in a straight line left-to-right across the board
-* a *column* spans nine squares in a straight line top-to-bottom across the board
+* a *row* spans nine spots in a straight line left-to-right across the board
+* a *column* spans nine spots in a straight line top-to-bottom across the board
 * at puzzle-start, one or more spots are blank
 
 A valid solution is made up of:
